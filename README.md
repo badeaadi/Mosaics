@@ -12,7 +12,7 @@ There were five methods though which photos were created.
 
 ### Matrix, based on euclidean distance with every two photos different.
 
-![Tom & Jerry](./photos/mozaic_tomJerry_caroiaj_distincte.png)
+![Adam](./photos/mozaic_adams_caroiaj_distincte.png)
 
 ### Random positions, based on euclidean distance
 
